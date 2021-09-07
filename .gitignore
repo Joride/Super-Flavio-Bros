@@ -1,0 +1,6 @@
+build/*
+*.nes
+*.o
+*.DS_Store
+*.sublime-project
+*.sublime-workspace
